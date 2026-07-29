@@ -184,7 +184,7 @@ python video_inference.py
 
 ## 👨‍💻 Author
 
-**Sabi Khan**
+**Sami Khan**
 
 AI / Machine Learning Engineer
 
